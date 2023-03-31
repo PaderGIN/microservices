@@ -1,6 +1,5 @@
 package com.glebpad.inventoryservice.model;
 
-import jdk.jfr.Enabled;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
